@@ -1,3 +1,3 @@
 Hello, world!
 
-Here is my second commit
+Favorite cakes are: vanilla
